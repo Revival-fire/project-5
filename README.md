@@ -44,4 +44,9 @@ After which i went to the client server to connect with this code below as show 
 
 I had initially created a security group for this server to make sure that its only possible that its the client that can connect to the server. 
 
-After successfully connecting to the server from the client these this is what was displayed on the terminal.
+After successfully connecting to the server from the client these this is what was displayed on the terminal.	
+![client successfully connected to the client](client-server2.PNG)
+
+
+
+
